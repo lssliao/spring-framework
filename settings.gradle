@@ -54,3 +54,7 @@ settings.gradle.projectsLoaded {
 		}
 	}
 }
+include 'spring-learning'
+include 'spring-learning-annotation'
+include 'spring-learning-aop'
+
